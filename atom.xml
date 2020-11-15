@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cathinerunningblog.github.io/</id>
+    <title>Gridea</title>
+    <updated>2020-11-15T08:44:57.641Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cathinerunningblog.github.io/"/>
+    <link rel="self" href="https://cathinerunningblog.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://cathinerunningblog.github.io/images/avatar.png</logo>
+    <icon>https://cathinerunningblog.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Cathine 的 跑步日志1--爱上跑步]]></title>
+        <id>https://cathinerunningblog.github.io/post/cathine-de-pao-bu-ri-zhi-1-ai-shang-pao-bu/</id>
+        <link href="https://cathinerunningblog.github.io/post/cathine-de-pao-bu-ri-zhi-1-ai-shang-pao-bu/">
+        </link>
+        <updated>2020-11-15T07:51:13.000Z</updated>
+        <content type="html"><![CDATA[<pre><code> 今年10月3日是我开始晨跑的第一天, 早晨6点的街道安静冷清, 假期中人们还在沉睡, 车辆也很少, 我有点得意可以独享这静谧的街景. 步行15分钟来到义乌公园, 打开歌单和keep就开始跑了. 阳光努力从稀薄的雾气中钻出来, 心情也随之爽朗起来. 跑到两公里双腿开始发软,太久不跑了, 呼吸也跟不上, 最后跑了4公里就结束了, 不好也不坏吧, 但是30分钟的有氧还是少了. 回家路上我想, 这么早起来跑段不远的距离,还上气不接下气, 要继续吗?
+ 现在回想起一个多月前的我, 已经忘记了是怎样克服当初那段艰难的不适期, 期间身体常常有困顿的时候, 晚上没睡好或者身体酸痛没恢复过来, 第二天早晨就起来得很不情愿, 木然躺着盯着天花板, 不如今天休息吧, 可是身体还是对抗着意志动了起来. 系上鞋带站在起跑点上, 一切就不由得自己了. 在经历犹豫和退缩后, 跑步这件事很快就变得纯粹了, 就仅仅是穿上跑鞋, 迈开双腿, 摆动手臂, 一呼一吸, 一公里接着一公里. 我见过很多跑团或者情侣一起跑, 但我更喜欢一个人, 因为我认为跑步应该是一个人的孤独的运动, 步幅和步频都得按照自己的节奏, 很难像逛街吃饭那样找到志同道合的朋友. 当然, 也有很多人认为找到同行者会更容易提升和坚持. 
+ 从4公里到21公里, 中途跑过多次10和15公里, 也只有短短一个多月的时间, 连我自己都感到十分意外呢. 一开始为了要坚持下来, 很努力地做思想工作, 平息内心的挣扎, 培养意志力, 看很多跑者分享的心得. 而现在, 我是渴望跑, 向往跑, 科学跑, 开心跑呀! 让人兴奋的跑量累积背后是心态的积极逆转, 再也不需要作平衡身心的努力了, 而是只需要用身体迎合内心的热情, 那是跑步带给我的一种由衷的快乐所致. 每次跑完后, 内心都会满满感激自己, 还好当初没有放弃. 跑步和生活中想要坚持抑或放弃的许多事一样, 如果有一天你突然想跑步了, 很正常; 如果有一天你突然不想跑了, 也很正常, 因为人的一生最不缺乏的就是昙花一现的热情和理由充分的放弃.
+  自从爱上晨跑后, 我便养成了早起的习惯. 一开始还依赖着闹钟醒来, 甚至在闹铃响后还要闭目酝酿起床的决心, 难怪都说早起需要勇气. 大概一周后, 几乎每天都能在闹铃响之前醒来. 要跑步的日子更是带着迫不及待醒来的心情入睡, 早醒就成了自然而然的事了. 因为有了热爱的事情要做, 睡眠就变得没那么重要了. 是跑步这位挚友把早起朋友带给我, 我当视你如知己, 带你游遍山河湖海. 人生有你, 阳光灿烂. 你好哇, 跑步!
+</code></pre>
+<p>关于跑步, 我真的有太多想写了...</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://cathinerunningblog.github.io/post/hello-gridea/</id>
+        <link href="https://cathinerunningblog.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
